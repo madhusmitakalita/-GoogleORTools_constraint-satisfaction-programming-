@@ -1,4 +1,4 @@
-# -GoogleORTools_constraint-satisfaction-programming-
+# GoogleORTools_constraint-satisfaction-programming
 
 
 Problem 1: 
